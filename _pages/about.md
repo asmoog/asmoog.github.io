@@ -12,4 +12,6 @@ I am a MSc student at McGill University and Mila under the supervision of Prof. 
  
 Interested in the theoretical underpinnings of machine learning, my research interests are sequential data, RNNs, and automata theory. I have also dabbled in normalizing flows and reinforcement learning.
 
-As a native Montrealer, I am thrilled to participate in the expanding local AI ecosystem.
+As a native Montrealer, I am thrilled to participate in the growing local AI ecosystem.
+
+If you would like to get in touch, please reach me by email: ariella.smofsky *at* mail.mcgill.ca.
